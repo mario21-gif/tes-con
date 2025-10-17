@@ -1,0 +1,58 @@
+Licence d’utilisation de logiciel
+
+1. Licence accordée  
+Le présent accord de licence (le « Contrat ») est un contrat entre vous (l'utilisateur) et [Nom de ton entreprise ou ton nom], concernant l'utilisation du logiciel [Nom du logiciel] (le « Logiciel »), représenté par le fichier exécutable [Nom du fichier].  
+En installant ou en utilisant ce logiciel, vous acceptez d’être lié par les termes de ce contrat. Si vous n'êtes pas d'accord avec ces termes, vous devez cesser immédiatement d'utiliser le logiciel.
+
+2. Droit d’utilisation  
+Sous réserve des conditions de ce Contrat, [Nom de ton entreprise ou ton nom] vous accorde une licence non exclusive, non transférable et révocable pour utiliser le Logiciel à des fins personnelles ou commerciales sur un seul appareil.
+
+3. Restriction de la licence  
+Vous n'êtes pas autorisé à :  
+- Modifier, décompiler, désassembler, ou tenter de contourner les protections du logiciel.  
+- Distribuer, vendre, ou louer le Logiciel à des tiers.  
+- Utiliser le Logiciel d'une manière non conforme à la législation en vigueur.
+
+4. Propriété intellectuelle  
+Le Logiciel est protégé par les lois sur le droit d'auteur et par les traités internationaux. Tous les droits, titres et intérêts relatifs au Logiciel, y compris tous les droits de propriété intellectuelle, restent la propriété exclusive de [Nom de ton entreprise ou ton nom].
+
+5. Garantie et responsabilité  
+Le Logiciel est fourni « en l’état », sans garantie d’aucune sorte. [Nom de ton entreprise ou ton nom] ne garantit pas que le Logiciel sera exempt d’erreurs, qu'il fonctionnera sans interruption ou qu’il répondra à vos besoins spécifiques.  
+En aucun cas [Nom de ton entreprise ou ton nom] ne pourra être tenu responsable des dommages indirects, spéciaux ou consécutifs, y compris la perte de données ou de profits.
+
+6. Résiliation  
+Ce Contrat prend fin automatiquement si vous ne respectez pas les termes de cette licence. En cas de résiliation, vous devez cesser immédiatement d’utiliser le Logiciel et supprimer toutes les copies en votre possession.
+
+7. Loi applicable  
+Ce Contrat est régi par la législation de [Ton pays], sans tenir compte des principes de conflit de lois. Toute action en justice relative à ce Contrat sera soumise à la compétence exclusive des tribunaux de [Ta juridiction].
+
+8. Acceptation  
+En installant ou en utilisant ce Logiciel, vous acceptez les termes de cette licence.
+
+
+🔒 LICENSE D'UTILISATION — (EXEMPLE) 🔒
+
+© 2025 [Ton Nom / Ta Société]. Tous droits réservés.
+
+⚠️ AVERTISSEMENT IMPORTANT :
+Les fichiers, scripts et ressources fournis ici sont fournis "tels quels", sans garantie d'aucune sorte, expresse ou implicite. Leur utilisation est sous votre seule responsabilité. L'auteur décline toute responsabilité en cas de perte de données, dommages matériels, compromission de sécurité ou utilisation malveillante de ces fichiers.
+
+📌 CONDITIONS D'UTILISATION :
+1) Autorisation :
+   Vous êtes autorisé(e) à copier, modifier et distribuer ces fichiers à condition de conserver cet avis de copyright et cet avertissement.
+
+2) Restrictions obligatoires :
+   - Ne pas utiliser ce logiciel pour des activités illégales, malveillantes ou frauduleuses.
+   - Ne pas inclure de code qui télécharge, installe ou exécute du contenu distant sans le consentement explicite et éclairé de l'utilisateur final.
+   - Ne pas redistribuer des exécutables modifiés destinés à tromper l'utilisateur sur leur origine ou leur comportement.
+
+3) Sécurité & transparence :
+   - Tout fichier exécuté doit être clairement documenté pour l'utilisateur.
+   - Les distributeurs s'engagent à informer les utilisateurs de tout changement apporté aux scripts fournis.
+
+4) Limitation de responsabilité :
+   Dans toute la mesure permise par la loi applicable, l'auteur ne pourra être tenu responsable de tout dommage direct, indirect, accessoire, spécial ou consécutif résultant de l'utilisation ou de l'incapacité d'utiliser ces fichiers.
+
+✉️ CONTACT :
+Pour toute question ou demande d'autorisation différente : [adresse@email.exemple]
+
