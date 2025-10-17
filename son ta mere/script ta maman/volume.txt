@@ -1,0 +1,1 @@
+START "" "%~dp0son ta mere\script ta maman\volume_max.bat"
